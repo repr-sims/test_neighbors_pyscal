@@ -1,0 +1,8 @@
+name: pyscal-test-1
+channels:
+  - conda-forge
+dependencies:
+  - pyscal
+  - pyscal3
+  - numpy
+  - matplotlib
